@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                      PORTS     NAMES
+108534106a06   hello-world   "/hello"                 13 minutes ago   Exited (0) 13 minutes ago             upbeat_wescoff
+ec9e9d2316fd   hello-world   "/hello"                 14 minutes ago   Exited (0) 14 minutes ago             nice_swartz
+133cb3fd6f81   nginx         "/docker-entrypoint.…"   29 minutes ago   Up 29 minutes               80/tcp    gallant_euler
