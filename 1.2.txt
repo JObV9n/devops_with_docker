@@ -1,0 +1,8 @@
+PS C:\Users\Lenovo\Desktop\docker> docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+PS C:\Users\Lenovo\Desktop\docker> docker images ls
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+
+No images found matching "ls": did you mean "docker image ls"?
+PS C:\Users\Lenovo\Desktop\docker> docker image ls
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
